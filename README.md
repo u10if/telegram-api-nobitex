@@ -1,4 +1,3 @@
-Sure, here's a sample README.md file for the code:
 
 Real-Time Price Monitoring using Telegram Bot
 
