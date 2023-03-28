@@ -30,3 +30,6 @@ You can modify the INTERVAL variable in main.py to change the time interval (in 
 License
 
 This code is released under the MIT License.
+IMPORTANT:
+use this version of telegram bot :
+pip install python-telegram-bot==13.7
