@@ -33,3 +33,4 @@ This code is released under the MIT License.
 IMPORTANT:
 use this version of telegram bot :
 pip install python-telegram-bot==13.7
+pip install schedule
