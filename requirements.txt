@@ -1,0 +1,4 @@
+pip install python-telegram-bot==13.7 
+pip install schedule
+pip install schedule
+pip install python-telegram-bot --upgrade
